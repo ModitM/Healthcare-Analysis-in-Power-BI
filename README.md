@@ -6,7 +6,7 @@ Conduct data analysis on the data set to determine the efficiency in a healthcar
 Data set contains the details of the hospitals, demographic details of the patients,  details of the disease and treatment undergone, length of stay at the hospital, and cost associated with treatment  etc. for the state of New York in the year 2016. Most of the record (>99%) belongs to the patients who had undergone a Hips-replacement Surgery. 
 ### Approach
 1. Performed data cleaning, formatting, filtering in Power query editor.
-2. Created a new table for taking account of Surgical Program Size in each facility.
+2. Created a new DAX table for taking account of Surgical Program Size in each facility into efficiency.
 3. Created two measures of efficiency using DAX for healthcare facility - Average LOS (days) i.e average length of stay of the patient and Average Cost per Discharge.
 4. Performed root cause analysis using KPIs to know why the measures of efficiency changes.
 ### Results
